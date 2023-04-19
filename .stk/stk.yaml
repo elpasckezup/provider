@@ -9,7 +9,7 @@ spec:
   type: app
   app-id: 01GYCRDKBCJ67ECH96BQNYR2C2
   plugins:
-    - name: zup/data-division/dataops-provider@0.0.6
+    - name: zup/data-division/dataops-provider@0.0.5
       plugin-version-id: 01GYBVF3RF7QGAC5YEBGYD7JZ7
       type: app
       inputs: {}
